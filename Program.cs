@@ -59,11 +59,9 @@
             cevap = 'A';
             odul = 1000;
             baraj = 0;
-
             
             seyirciYuzdeA = 80; seyirciYuzdeB = 10;
             seyirciYuzdeC = 5; seyirciYuzdeD = 5;
-
             
             gizleA = false; gizleB = false;
             gizleC = false; gizleD = false;
